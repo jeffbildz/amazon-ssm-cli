@@ -49,7 +49,7 @@ def ProcessCommand(server, command, region, profile):
 
 
 def main():
-  #Loop through list of SQL servers
+  #inherit variables
   server = sys.argv[1]
   command = sys.argv[2]
   region = sys.argv[3]
