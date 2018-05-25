@@ -5,4 +5,4 @@ This command can be used with the AWS Name tag, so you do not have to do a looku
 
 command operations
 
-amazon-ssm-cli server_name command region profile
+amazon-ssm-cli.py server_name command region profile
